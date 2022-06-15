@@ -1,0 +1,15 @@
+{
+    "name": "macropage/meta-laravel",
+    "description": "my personal boilerplate",
+    "type": "metapackagemetapackage",
+    "minimum-stability": "stable",
+    "require": {
+        "laravel/laravel": "^9.1",
+        "kint-php/kint": "^4.1",
+        "sentry/sentry-laravel": "^2.12"
+    },
+    "require-dev": {
+        "barryvdh/laravel-ide-helper": "^2.12",
+        "krlove/eloquent-model-generator": "^2.0"
+    }
+}
