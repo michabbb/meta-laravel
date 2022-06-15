@@ -1,5 +1,5 @@
 {
-    "name": "macropage/meta-laravel",
+    "name": "michabbb/meta-laravel",
     "description": "my personal boilerplate",
     "type": "metapackage",
     "minimum-stability": "dev",
