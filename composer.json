@@ -7,8 +7,6 @@
     "require": {
         "kint-php/kint": "^4.1",
         "sentry/sentry-laravel": "^2.12"
-    },
-    "require-dev": {
         "barryvdh/laravel-ide-helper": "^2.12",
         "krlove/eloquent-model-generator": "^2.0"
     }
