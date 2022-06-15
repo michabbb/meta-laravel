@@ -5,7 +5,6 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "laravel/laravel": "^9.1",
         "kint-php/kint": "^4.1",
         "sentry/sentry-laravel": "^2.12"
     },
