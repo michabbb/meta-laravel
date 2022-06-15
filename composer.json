@@ -1,7 +1,7 @@
 {
     "name": "michabbb/meta-laravel",
     "description": "my personal boilerplate",
-    "type": "metapackage",
+    "type": "project",
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
