@@ -5,9 +5,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "kint-php/kint": "^4.1",
-        "sentry/sentry-laravel": "^2.12",
-        "barryvdh/laravel-ide-helper": "^2.12",
+        "sentry/sentry-laravel": "^3.0",
+        "barryvdh/laravel-ide-helper": "^2.0",
         "krlove/eloquent-model-generator": "^2.0"
     }
 }
